@@ -4,7 +4,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class IsUnique {
+public class isUnique {
 
     public static void main(String[] args) {
         System.out.println(isErrorGivenWithNoString());
@@ -22,7 +22,17 @@ public class IsUnique {
     }
 
     static boolean stringIsUnique(String s) {
+        processInput(s);
+        char[] carr = s.toCharArray();
 
+        Arrays.sort(carr);
+
+        for (int i = 0; i < (s.length() - 1); i++) {
+            if (carr[i] == carr[i+1]) {
+                return false;
+            }
+        }
+        
         return true;
     }
 
