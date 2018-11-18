@@ -2,13 +2,24 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - IsUnique",
+            "name": "CodeLens (Launch) - CheckPermutation",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "IsUnique",
+            "mainClass": "CheckPermutation",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - checkPermutation",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "checkPermutation",
             "args": ""
         }
     ]
+    
 }
