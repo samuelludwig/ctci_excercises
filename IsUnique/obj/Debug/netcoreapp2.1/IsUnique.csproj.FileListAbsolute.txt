@@ -1,0 +1,11 @@
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\bin\Debug\netcoreapp2.1\IsUnique.deps.json
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\bin\Debug\netcoreapp2.1\IsUnique.runtimeconfig.json
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\bin\Debug\netcoreapp2.1\IsUnique.runtimeconfig.dev.json
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\bin\Debug\netcoreapp2.1\IsUnique.dll
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\bin\Debug\netcoreapp2.1\IsUnique.pdb
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.csprojAssemblyReference.cache
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.csproj.CoreCompileInputs.cache
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.AssemblyInfoInputs.cache
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.AssemblyInfo.cs
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.dll
+C:\Users\SAMUE\Documents\GitHub\ctci_excercises\IsUnique\obj\Debug\netcoreapp2.1\IsUnique.pdb
