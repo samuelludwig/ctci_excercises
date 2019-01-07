@@ -1,9 +1,12 @@
 """Check if two strings are permutations of one another
 """
 
+def preprocess(string):
+    return sorted(string.lower())
+
 def check_permutation(string1, string2):
-    s1 = ''.join(sorted(string1))
-    s2 = ''.join(sorted(string2))
+    s1 = ''.join(preprocess(string1))
+    s2 = ''.join(preprocess(string2))
 
     if s1 == s2:
         return True
