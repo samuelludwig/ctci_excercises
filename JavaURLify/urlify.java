@@ -23,11 +23,8 @@ public class urlify {
                 urlArr[i+2] = '0';
             }
         }
-        // for (int i = tLength; i > 0; i--) {
-        //     urlArr[i] = urlArr[i-2];
-        // }
-        System.out.println(urlArr);
-        return urlArr.toString().trim();
+        
+        return urlArr;
     }
 
     // TESTS //
